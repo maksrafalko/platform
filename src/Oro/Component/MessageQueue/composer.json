@@ -12,7 +12,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "3.x-dev"
+            "testSymfonyUpgrade": "3.x-dev"
         }
     }
 }
