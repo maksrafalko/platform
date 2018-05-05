@@ -14,7 +14,7 @@
     "minimum-stability": "dev",
     "extra": {
         "branch-alias": {
-            "testSymfonyUpgrade": "3.x-dev"
+            "dev-testSymfonyUpgrade": "3.x-dev"
         }
     }
 }
